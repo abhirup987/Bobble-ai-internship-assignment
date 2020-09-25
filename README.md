@@ -5,11 +5,11 @@ first - index.html
 second-style.css
 3rd- one picture :3
 
-to run this project you need to click the index.html (chrome file)
-it will show my work 
+to run this project you need to download all 3 file in a new folder and you need to click on index.html (chrome file)
+it will show my work. 
 
 
-i did this project by using html+css
+i did this project by using html+css.
 
 i did this project in brackets text editor !!
 
