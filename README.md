@@ -3,9 +3,9 @@ this project include 3 files !!
 
 first - index.html
 second-style.css
-3rd- one picture :3
+3rd- one picture (not the screenshot )
 
-to run this project you need to download all 4 file in a new folder and you need to click on index.html (chrome file)
+to run this project you need to download all 3 file in a new folder and you need to click on index.html (chrome file)
 it will show my work. 
 
 
